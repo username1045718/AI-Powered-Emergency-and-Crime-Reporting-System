@@ -1,0 +1,8 @@
+# Ignore Python files in stats
+Backend/** linguist-vendored
+
+# Ignore database folder from stats
+database/** linguist-vendored
+
+# You can also ignore package-lock.json if it’s huge
+package-lock.json linguist-generated
